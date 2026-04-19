@@ -20,24 +20,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshansh-kakkkar&theme=onedark&no-frame=true&row=1&column=6&no-bg=true&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshansh-kakkkar&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh-kakkkar&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshansh-kakkkar&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshansh-kakkkar&theme=tokyo-night" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 💻 Passionate about **Full Stack Development**
-- 🌱 Currently improving my **system design & backend skills**
-- 🚀 Love building real-world projects and solving problems
+- 💻 Passionate about **Full Stack Development (MERN)**
+- 🌱 Currently learning **System Design & Backend Scaling**
+- 🚀 Love building real-world projects
 - 🤝 Open to collaboration and networking
 
 ---
