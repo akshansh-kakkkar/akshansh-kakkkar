@@ -20,9 +20,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshansh-kakkkar&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh-kakkkar&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshansh-kakkkar&theme=onedark&no-frame=true&row=1&column=6&no-bg=true&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
 
 ---
