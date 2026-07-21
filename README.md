@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshansh-kakkkar&show_icons=true&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh-kakkkar&theme=tokyonight" />
 </p>
