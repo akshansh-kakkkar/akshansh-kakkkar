@@ -1,5 +1,5 @@
 # 💫 About Me:
- Passionate about Full Stack Development (MERN)<br>Currently learning Java<br>Love building real-world projects<br>Open to collaboration and networking. 
+ Passionate about Full Stack Development (MERN)<br>Currently learning Java<br>Love building real-world projects<br>Open to collaboration and networking
 
 
 ## 🌐 Socials:
